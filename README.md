@@ -7,6 +7,7 @@
 - Graphql -> for APIs
 - React -> for front end
 - React Router -> for Routes
+- React Strap -> for UI
 - Apollo Client -> for simple itegration with React 
 - MongoDb -> for saveing data
 - Express -> for the back-end
