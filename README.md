@@ -16,3 +16,13 @@
 - Create / Edit / Delete for Todo
 - Assign status to TODO
 
+
+## Start Application 
+
+- npm install in the base/root folder
+- npm install in the client folder
+- make sure mongodb serveice is runing "sudo service mongodb start"
+- Now initiate two terminals one in the root folder
+> npm run server
+- the other in client folder
+> npm start
